@@ -70,7 +70,7 @@
 .inputfield input {
   border: none;
   outline: none;
-  width: 80%;
+  width: 25vw;
   text-align: left;
 }
 .inputfield span {
@@ -127,7 +127,11 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
-
+.no-country {
+  width: 100%;
+  padding: 2vw;
+  background-color: rgb(80, 78, 78);
+}
 /* ----------SELECT TAG ----------*/
 
 /* ----------DEATILS PAGE ----------*/
@@ -228,6 +232,9 @@
   }
   .inputfield {
     width: 90vw;
+  }
+  .inputfield input {
+    width: 80vw;
   }
   .select-form select {
     min-width: 40vw;
