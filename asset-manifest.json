@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dancanmilgo73/country-flags/static/css/main.ba01cfec.chunk.css",
+    "main.js": "/Dancanmilgo73/country-flags/static/js/main.14b5c97c.chunk.js",
+    "main.js.map": "/Dancanmilgo73/country-flags/static/js/main.14b5c97c.chunk.js.map",
+    "runtime-main.js": "/Dancanmilgo73/country-flags/static/js/runtime-main.e9803000.js",
+    "runtime-main.js.map": "/Dancanmilgo73/country-flags/static/js/runtime-main.e9803000.js.map",
+    "static/js/2.ff0d21de.chunk.js": "/Dancanmilgo73/country-flags/static/js/2.ff0d21de.chunk.js",
+    "static/js/2.ff0d21de.chunk.js.map": "/Dancanmilgo73/country-flags/static/js/2.ff0d21de.chunk.js.map",
+    "static/js/3.d705e8c9.chunk.js": "/Dancanmilgo73/country-flags/static/js/3.d705e8c9.chunk.js",
+    "static/js/3.d705e8c9.chunk.js.map": "/Dancanmilgo73/country-flags/static/js/3.d705e8c9.chunk.js.map",
+    "index.html": "/Dancanmilgo73/country-flags/index.html",
+    "static/css/main.ba01cfec.chunk.css.map": "/Dancanmilgo73/country-flags/static/css/main.ba01cfec.chunk.css.map",
+    "static/js/2.ff0d21de.chunk.js.LICENSE.txt": "/Dancanmilgo73/country-flags/static/js/2.ff0d21de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9803000.js",
+    "static/js/2.ff0d21de.chunk.js",
+    "static/css/main.ba01cfec.chunk.css",
+    "static/js/main.14b5c97c.chunk.js"
+  ]
+}
